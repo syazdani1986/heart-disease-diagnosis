@@ -6,4 +6,5 @@ This is a project for performing heart disease diagnosis using machine learning.
 - Model building and model selection
 - Model evaluation and performance analysis
 - Model interpretation
-- Final suggestions
+- Final suggestions and conclusion
+
